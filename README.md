@@ -1,8 +1,5 @@
 <div align="center">
   <p>
-    <img src="assets/logo_bcw.png" width="250" />
-  </p>
-  <p>
     Transforming the DLT Ecosystem
   </p>
 </div>
@@ -152,4 +149,3 @@ Backend: `Node.js`, `Express.js`, `Typescript`
 - Implement pagination and sort in backend.
 - Move assets to CDN and optimize them to reduce the loading time. (`*.webp` and `*.svg` are preferred )
 - Extend Redux based state management for complex data flow
-# react-full-stack-test
