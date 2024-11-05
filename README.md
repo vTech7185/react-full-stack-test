@@ -1,10 +1,4 @@
-<div align="center">
-  <p>
-    Transforming the DLT Ecosystem
-  </p>
-</div>
-
-# Take Home Test (Fullstack)
+# Take Home Test (Full Stack)
 
 ## Table of Content:
 
